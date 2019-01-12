@@ -1,6 +1,6 @@
 # Engineering Exam Selection Analysis
 
-
+#### (Analysis in Jupyter Notebook)
 ### The Problem
 
 The prediction of wether a student is likely to be selected in an College of desire based on various factors like Mother tongue, Hours of Study etc. Data of students who persued engineering and how many of them got in needs to be converted into appropriate form to be used in an Linear Regression Model. The non-numeric data has to be converved into numeric
@@ -45,4 +45,4 @@ The data is Binary. The data is converted into numeric form with Male and Female
 7. Missing values are checked for 
  
 ### Result
-The linear regressi had a score of 73.54 % obtained from 100 samples(which is a very small dataset).
+The linear regressi had a score of **73.54 %** obtained from 100 samples(which is a very small dataset).
